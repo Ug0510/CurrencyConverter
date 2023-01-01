@@ -1,0 +1,16 @@
+platform :ios, '16.2'
+
+target 'CurrencyConverter' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CurrencyConverter
+  pod 'Alamofire', '~> 5.0'
+  pod 'RealmSwift', '~> 5.0'
+
+  target 'CurrencyConverterTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
