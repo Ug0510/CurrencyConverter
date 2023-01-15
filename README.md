@@ -19,8 +19,9 @@ This project contains react-native application to convert currencies with follow
 Home screen contains an animated logo showing base currency and target currency and two currency fields.
 Writing in one input and Press Convert Button then 2nd input shows converted value for target currency. User can switch base and target currencies by clicking the reverse currencies button present below convert button . Every input field has a Custom Button which shows selecetd currency. On clicking/toching that Button, Currencies List screen is shown.
 
+<p width="300px">
 ![Home](https://user-images.githubusercontent.com/85778092/210179626-82cd74d5-a0ec-4963-b81a-4a01d60b79e0.png)
-
+</p>
 ### Currencies List
 Currencies List screen contains all currencies supported by the currency api to fetch currencies exchange rates. 
 One Search box is also present by using which you can search any currency.
