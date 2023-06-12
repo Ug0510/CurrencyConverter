@@ -34,7 +34,7 @@ Api url: https://api-ninjas.com/api/convertcurrency
 </p>
 
 ## Warning 
-Api is little slow so you may get the correct output by pressing the convert button 2-3 times.
+If Api is little slow so you may get the correct output by pressing the convert button 2-3 times.
 
 ## Testing & Code Coverage
 This is a work in progress.
