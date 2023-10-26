@@ -27,6 +27,7 @@ Writing in one input and Press Convert Button then 2nd input shows converted val
 ### Currencies List
 Currencies List screen contains all currencies supported by the currency api to fetch currencies exchange rates. 
 One Search box is also present by using which you can search any currency.
+
 Api url: https://api-ninjas.com/api/convertcurrency
 
 <p align="center">
